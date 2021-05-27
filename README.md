@@ -6,6 +6,19 @@ In this project we take a look at the Amazon Vine program and tried to determine
 
 ## Results:
 
+Deliverable 1:
+
+The goal of deliverable 1 was to create the AWS RDS database with tables in pgAdmin.  
+
+Four tables were created: customers_table, products_table, review_id_table, and vine_table.  Please see a snap-shot of each table below.
+
+
+
+
+
+
+Deliverable 2:
+
 How many Vine reviews and non-Vine reviews were there? 
 1.	Vine Reviews: 102
 2.	non-Vine Reviews: 64000
