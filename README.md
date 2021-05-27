@@ -39,5 +39,7 @@ What percentage of non-Vine reviews were 5 stars? ~32%
 
 ## Summary:
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+The dataset between Vine reviews and non-Vine reviews is vastly different.  There are significantly more reviews from the non-Vine reviewers.  Given the current information, I would say there appears to be a bias with Vine reviews.  47% of the Vine reviews are 5 stars compared to the non-Vine reviews at only ~32%.
+
+We could look a little closer and see what games are being rated 5 stars from the two groups.  If the games being reviewed as 5 stars are very similar, then there is a less likelihood of bias.  
+  
