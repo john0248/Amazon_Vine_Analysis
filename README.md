@@ -6,11 +6,19 @@ In this project we take a look at the Amazon Vine program and tried to determine
 
 ## Results:
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+How many Vine reviews and non-Vine reviews were there? 
+1.	Vine Reviews: 102
+2.	non-Vine Reviews: 64000
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+How many Vine reviews were 5 stars? 48
+
+How many non-Vine reviews were 5 stars? 20,282
+
+What percentage of Vine reviews were 5 stars? ~47%
+
+What percentage of non-Vine reviews were 5 stars? ~32%
+
+
 
 ## Summary:
 
