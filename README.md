@@ -10,11 +10,15 @@ Deliverable 1:
 
 The goal of deliverable 1 was to create the AWS RDS database with tables in pgAdmin.  
 
-Four tables were created: customers_table, products_table, review_id_table, and vine_table.  Please see a snap-shot of each table below.
+Four tables were created: customers_table, products_table, review_id_table, and vine_table.  Please see a snap-shot of each table below. The customers_table snap-shot was taken from pgAdmin since I forgot to display the table in my ETL notebook. 
 
+![image](customers_table.png)
 
+![image](products_table.png)
 
+![image](review_id_table.png)
 
+![image](vine_table.png)
 
 
 Deliverable 2:
